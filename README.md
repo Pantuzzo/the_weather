@@ -1,6 +1,7 @@
 # the_weather
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple weather application that allows users to search for the weather in different cities.
+The application display the current weather conditions, temperature, and a brief description of the weather.
 
 ## Recommended IDE Setup
 
