@@ -19,6 +19,12 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ```sh
 npm install
+npm install quasar
+npm install @quasar/extras
+npm install _D sass
+npm i vue-material-design-icons
+npm install material-icons
+npm install axios
 ```
 
 ### Compile and Hot-Reload for Development
