@@ -1,4 +1,4 @@
-# the_weather
+# The Weather
 
 A simple weather application that allows users to search for the weather in different cities.
 The application display the current weather conditions, temperature, and a brief description of the weather.
